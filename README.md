@@ -64,3 +64,17 @@ I’m excited to share my projects, skills, and journey with you. 🚀
 <!-- markdownlint-enable MD033 MD013-->
 
 ---
+
+### 📊 GitHub Stats
+
+<!-- markdownlint-disable MD033 MD013-->
+<p align="center">
+  <a href="https://github.com/jd-35656">
+    <img src="https://github-readme-stats.vercel.app/api?username=jd-35656&show_icons=true&theme=default" alt="GitHub Stats" width="400" height="200"/>
+  </a>
+
+  <a href="https://github.com/jd-35656">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jd-35656&theme=default" alt="GitHub Streak" width="400" height="200"/>
+  </a>
+</p>
+<!-- markdownlint-enable MD033 MD013-->
