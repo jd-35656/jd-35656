@@ -78,3 +78,7 @@ I’m excited to share my projects, skills, and journey with you. 🚀
   </a>
 </p>
 <!-- markdownlint-enable MD033 MD013-->
+
+---
+
+🐺 **_The magic you are looking for is in the work you are avoiding._** 🐺
