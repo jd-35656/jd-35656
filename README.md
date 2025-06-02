@@ -24,3 +24,13 @@ I’m excited to share my projects, skills, and journey with you. 🚀
 - 🌱 Always learning, improving, and exploring new technologies.
 
 ---
+
+## 🛠️ Skills
+
+- **Languages:** Python, SQL
+- **Frameworks:** Django, Flask, FastAPI, boto3
+- **Cloud & Infrastructure:** AWS (EC2, S3, CloudFormation, CloudWatch, etc.), Terraform
+- **DevOps & Tools:** Docker, Git, CI/CD, automation scripting
+- **Databases:** MySQL, PostgreSQL
+
+---
