@@ -34,3 +34,33 @@ I’m excited to share my projects, skills, and journey with you. 🚀
 - **Databases:** MySQL, PostgreSQL
 
 ---
+
+### 📫 Connect with me on Social Media
+
+<!-- markdownlint-disable MD033 MD013-->
+<div align="center">
+
+  <a href="https://linkedin.com/in/jd-35656" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="60" alt="LinkedIn" />
+  </a>
+
+  <a href="https://x.com/jd_35656" target="_blank" rel="noopener noreferrer" aria-label="X (Twitter)">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="60" alt="X (Twitter)" />
+  </a>
+
+  <a href="https://instagram.com/jd.35656" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="60" alt="Instagram" />
+  </a>
+
+  <a href="https://facebook.com/jd.35656" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="60" alt="Facebook" />
+  </a>
+
+  <a href="mailto:jitesh.sahani@outlook.com" target="_blank" rel="noopener noreferrer" aria-label="Email">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="60" alt="Email" />
+  </a>
+
+</div>
+<!-- markdownlint-enable MD033 MD013-->
+
+---
