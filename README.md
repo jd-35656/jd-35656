@@ -1,4 +1,4 @@
-# Hey there 👋
+# Hey there 👋, What’s up?
 
 I’m **_Jitesh Sahani_** — but you can just call me **_JD!_**, like my friends do!
 
@@ -39,27 +39,61 @@ I’m excited to share my projects, skills, and journey with you. 🚀
 
 <!-- markdownlint-disable MD033 MD013-->
 <div align="center">
-
-  <a href="https://linkedin.com/in/jd-35656" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="60" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/jd-35656"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="LinkedIn"
+  >
+    <img src="assets/linkedin.svg"
+        alt="LinkedIn"
+        width: 70px;
+        height: 70px;
+    />
   </a>
-
-  <a href="https://x.com/jd_35656" target="_blank" rel="noopener noreferrer" aria-label="X (Twitter)">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="60" alt="X (Twitter)" />
+  <a href="https://x.com/jd_35656"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="X.com"
+  >
+    <img src="assets/x.svg"
+        alt="X.com"
+        width: 70px
+        height: 70px
+    />
   </a>
-
-  <a href="https://instagram.com/jd.35656" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="60" alt="Instagram" />
+  <a href="https://facebook.com/jd.35656"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="Facebook"
+  >
+    <img src="assets/facebook.svg"
+        alt="Facebook"
+        width: 70px
+        height: 70px
+    />
   </a>
-
-  <a href="https://facebook.com/jd.35656" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="60" alt="Facebook" />
+  <a href="https://instagram.com/jd.35656"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="Instagram"
+  >
+    <img src="assets/instagram.svg"
+        alt="Instagram"
+        width: 70px
+        height: 70px
+    />
   </a>
-
-  <a href="mailto:jitesh.sahani@outlook.com" target="_blank" rel="noopener noreferrer" aria-label="Email">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="60" alt="Email" />
+  <a href="mailto:jitesh.sahani@outlook.com"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="Outlook"
+  >
+    <img src="assets/outlook.svg"
+        alt="Outlook"
+        width: 70px
+        height: 70px
+    />
   </a>
-
 </div>
 <!-- markdownlint-enable MD033 MD013-->
 
@@ -68,15 +102,22 @@ I’m excited to share my projects, skills, and journey with you. 🚀
 ### 📊 GitHub Stats
 
 <!-- markdownlint-disable MD033 MD013-->
-<p align="center">
-  <a href="https://github.com/jd-35656">
-    <img src="https://github-readme-stats.vercel.app/api?username=jd-35656&show_icons=true&theme=default" alt="GitHub Stats" width="400" height="200"/>
-  </a>
 
-  <a href="https://github.com/jd-35656">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jd-35656&theme=default" alt="GitHub Streak" width="400" height="200"/>
-  </a>
-</p>
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jd-35656&show_icons=true&theme=dark"
+    width="800"
+    height="400"
+    alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jd-35656&theme=dark"
+    width="800
+    height="400
+    alt="GitHub Streak" />
+</div>
 <!-- markdownlint-enable MD033 MD013-->
 
 ---
