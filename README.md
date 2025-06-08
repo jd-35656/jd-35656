@@ -99,6 +99,13 @@ I’m excited to share my projects, skills, and journey with you. 🚀
 
 ---
 
+### Credly Badges
+
+<!-- START CREDLY BADGES -->
+<!-- END CREDLY BADGES -->
+
+---
+
 ### 📊 GitHub Stats
 
 <!-- markdownlint-disable MD033 MD013-->

@@ -1,0 +1,15 @@
+name: Update Credly Badges
+
+on:
+  schedule:
+    - cron: "15 21 * * *" # Runs daily at 02:45 IST (21:15 UTC)
+  workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update Badges in README
+        uses: jd-35656/readme-credly-badges@main
+        with:
+          COMMIT_MESSAGE: "chore: Update new Credly Badges"
