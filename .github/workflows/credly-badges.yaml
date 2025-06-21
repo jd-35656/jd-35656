@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Update Badges in README
-        uses: jd-35656/readme-credly-badges@main
+        uses: jd-35656/readme-credly-badges@v1
         with:
-          COMMIT_MESSAGE: "chore: Update new Credly Badges"
+          commit_message: "chore: Update new Credly Badges"
