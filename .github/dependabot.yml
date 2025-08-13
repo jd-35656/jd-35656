@@ -9,4 +9,3 @@ updates:
       gh-actions:
         patterns:
           - "*"
-          
