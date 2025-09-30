@@ -47,7 +47,6 @@ I’m excited to share my projects, skills, and journey with you. 🚀
   </a>
 </div>
 <!-- SOCIAL MEDIAS LINKS END -->
-
 <!-- markdownlint-enable MD033 MD013-->
 
 ---

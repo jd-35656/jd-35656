@@ -39,7 +39,7 @@ if README_FILE.exists():
 
         # Rebuild the content with the new social media links
         new_content = (
-            f"{before}{START_MARKER}\n{social_media_markdown}{END_MARKER}\n{after}"
+            f"{before}{START_MARKER}\n{social_media_markdown}{END_MARKER}{after}"
         )
 
         # Write the updated content back to the README.md file using pathlib
