@@ -25,76 +25,12 @@ I’m excited to share my projects, skills, and journey with you. 🚀
 
 ---
 
-## 🛠️ Skills
-
-- **Languages:** Python, SQL
-- **Frameworks:** Django, Flask, FastAPI, boto3
-- **Cloud & Infrastructure:** AWS (EC2, S3, CloudFormation, CloudWatch, etc.), Terraform
-- **DevOps & Tools:** Docker, Git, CI/CD, automation scripting
-- **Databases:** MySQL, PostgreSQL
-
----
-
 ### 📫 Connect with me on Social Media
 
 <!-- markdownlint-disable MD033 MD013-->
-<div align="center">
-  <a href="https://linkedin.com/in/jd-35656"
-    target="_blank"
-    rel="noopener noreferrer"
-    aria-label="LinkedIn"
-  >
-    <img src="assets/linkedin.svg"
-        alt="LinkedIn"
-        width: 70px;
-        height: 70px;
-    />
-  </a>
-  <a href="https://x.com/jd_35656"
-    target="_blank"
-    rel="noopener noreferrer"
-    aria-label="X.com"
-  >
-    <img src="assets/x.svg"
-        alt="X.com"
-        width: 70px
-        height: 70px
-    />
-  </a>
-  <a href="https://facebook.com/jd.35656"
-    target="_blank"
-    rel="noopener noreferrer"
-    aria-label="Facebook"
-  >
-    <img src="assets/facebook.svg"
-        alt="Facebook"
-        width: 70px
-        height: 70px
-    />
-  </a>
-  <a href="https://instagram.com/jd.35656"
-    target="_blank"
-    rel="noopener noreferrer"
-    aria-label="Instagram"
-  >
-    <img src="assets/instagram.svg"
-        alt="Instagram"
-        width: 70px
-        height: 70px
-    />
-  </a>
-  <a href="mailto:jitesh.sahani@outlook.com"
-    target="_blank"
-    rel="noopener noreferrer"
-    aria-label="Outlook"
-  >
-    <img src="assets/outlook.svg"
-        alt="Outlook"
-        width: 70px
-        height: 70px
-    />
-  </a>
-</div>
+<!-- SOCIAL MEDIAS LINKS START -->
+
+<!-- SOCIAL MEDIAS LINKS END -->
 <!-- markdownlint-enable MD033 MD013-->
 
 ---

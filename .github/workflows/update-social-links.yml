@@ -1,0 +1,39 @@
+name: Update Social Media Links
+
+on:
+  push:
+    branches:
+      - main # Trigger on push to main (e.g., after PR merge)
+  workflow_dispatch: # Manual trigger via GitHub UI
+
+jobs:
+  update-social-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.13"
+
+      - name: Run script to update social links in README.md
+        id: update_social_links
+        run: |
+          python scripts/generate_social_links.py
+
+      - name: Check if README.md was updated
+        id: check_changes
+        run: |
+          # Check if README.md has been modified
+          git diff --exit-code README.md || echo "README.md has changes"
+
+      - name: Commit and push changes if README.md is updated
+        if: steps.check_changes.outputs.exit-code != 0
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Update social media links in README.md"
+          git push

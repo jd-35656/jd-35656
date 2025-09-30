@@ -1,0 +1,34 @@
+{
+  "socialLinks": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/in/jd-35656",
+      "image": "assets/images/linkedin.svg",
+      "alt": "LinkedIn"
+    },
+    {
+      "platform": "X.com",
+      "url": "https://x.com/jd_35656",
+      "image": "assets/images/x.svg",
+      "alt": "X.com"
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://facebook.com/jd.35656",
+      "image": "assets/images/facebook.svg",
+      "alt": "Facebook"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://instagram.com/jd.35656",
+      "image": "assets/images/instagram.svg",
+      "alt": "Instagram"
+    },
+    {
+      "platform": "Outlook",
+      "url": "mailto:jitesh.sahani@outlook.com",
+      "image": "assets/images/outlook.svg",
+      "alt": "Outlook"
+    }
+  ]
+}
