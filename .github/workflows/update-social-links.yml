@@ -27,10 +27,17 @@ jobs:
         id: check_changes
         run: |
           # Check if README.md has been modified
-          git diff --exit-code README.md || echo "README.md has changes"
+          git diff --exit-code README.md || echo "README.md has changes" > change_detected.txt
+
+          # If changes detected, set the output to true, otherwise false
+          if [[ -f change_detected.txt ]]; then
+            echo "has_changes=true" >> $GITHUB_ENV
+          else
+            echo "has_changes=false" >> $GITHUB_ENV
+          fi
 
       - name: Commit and push changes if README.md is updated
-        if: steps.check_changes.outputs.exit-code != 0
+        if: env.has_changes == 'true'
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "GitHub Actions"
