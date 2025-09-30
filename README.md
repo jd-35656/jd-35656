@@ -29,8 +29,25 @@ I’m excited to share my projects, skills, and journey with you. 🚀
 
 <!-- markdownlint-disable MD033 MD013-->
 <!-- SOCIAL MEDIAS LINKS START -->
-
+<div align="center">
+  <a href="https://linkedin.com/in/jd-35656" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+    <img src="assets/images/linkedin.svg" alt="LinkedIn" width="70px" height="70px" />
+  </a>
+  <a href="https://x.com/jd_35656" target="_blank" rel="noopener noreferrer" aria-label="X.com">
+    <img src="assets/images/x.svg" alt="X.com" width="70px" height="70px" />
+  </a>
+  <a href="https://facebook.com/jd.35656" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+    <img src="assets/images/facebook.svg" alt="Facebook" width="70px" height="70px" />
+  </a>
+  <a href="https://instagram.com/jd.35656" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+    <img src="assets/images/instagram.svg" alt="Instagram" width="70px" height="70px" />
+  </a>
+  <a href="mailto:jitesh.sahani@outlook.com" target="_blank" rel="noopener noreferrer" aria-label="Outlook">
+    <img src="assets/images/outlook.svg" alt="Outlook" width="70px" height="70px" />
+  </a>
+</div>
 <!-- SOCIAL MEDIAS LINKS END -->
+
 <!-- markdownlint-enable MD033 MD013-->
 
 ---
